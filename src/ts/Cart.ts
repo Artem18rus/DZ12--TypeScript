@@ -1,5 +1,4 @@
-console.log('Карт')
-import Buyable from "./Buyable"
+import Buyable from "./Buyable";
 
 export default class Cart {
   private _items: Buyable[]=[];

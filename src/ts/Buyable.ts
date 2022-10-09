@@ -1,4 +1,3 @@
-console.log('Buya')
 export default interface Buyable {
     readonly year: number,
     readonly country: string,
